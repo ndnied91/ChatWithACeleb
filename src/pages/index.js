@@ -38,7 +38,7 @@ export default function App() {
         {renderStacks()}
       </div>
 
-      <div className="pt-5 max-w-xl h-6 p-2 text-center"> {desc} </div>
+      <div className="pt-6 max-w-xl h-6 p-2 text-center"> {desc} </div>
     </div>
   );
 }
