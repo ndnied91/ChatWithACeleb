@@ -24,8 +24,6 @@ export async function dbConnect() {
     cached.conn = db;
   }
 
-  await cached.conn.read(); //gets data before starting chat
-
   // db.data = db.data || { messageHistory: {} };
   cached.conn.data ||= { messageHistory: {} };
 
