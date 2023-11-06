@@ -2,7 +2,7 @@ import { Html, Head, Main, NextScript } from 'next/document';
 
 export default function Document() {
   return (
-    <Html style="font-size: 16px">
+    <Html>
       <Head
         lang="en"
         name="viewport"

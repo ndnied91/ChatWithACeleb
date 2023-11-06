@@ -6,7 +6,7 @@ import { BiArrowBack } from 'react-icons/bi';
 export default function Header({ logo, info }) {
   return (
     <section className="m-4 mb-0 lg:m-2">
-      <div id="testtt" className="grid bg-slate-200 p-4 rounded-2xl md:flex">
+      <div className="grid bg-slate-200 p-4 rounded-2xl md:flex">
         <div className="flex mr-4 justify-center items-center">
           <Image
             src={logo}
