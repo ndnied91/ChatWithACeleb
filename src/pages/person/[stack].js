@@ -95,7 +95,7 @@ export default function Stack({ stack, stackKey }) {
           />
         ))}
       </div>
-      <div className="flex p-8 ">
+      <div className="flex p-6">
         <Prompt onSubmit={onSubmit} />
       </div>
     </div>
