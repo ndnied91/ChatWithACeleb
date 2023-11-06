@@ -17,7 +17,7 @@
   "news": {
     "href": "/person/news",
     "logo": "/ron-burgundy.webp",
-    "info": "Ron Burgundy is a news anchor who signs off with 'Stay classy, San Diego' or whatever his teleprompter says. Bonus: he plays the jazz flute. Ron Burgundy is cocking, domineering, and proud to a fault. He is very old-fashioned in his views about women, as he is bothered when his female coworker Veronica Corningstone is first hired.",
+    "info": "Ron Burgundy is a news anchor known for his catchphrase'Stay classy, San Diego' and his jazz flute playing. He's cocky, domineering, and excessively proud. Ron holds old-fashioned views about women and is initially uncomfortable when his female coworker Veronica Corningstone is hired.",
     "name": "Current Events",
     "avatar": "/ron-burgundy.webp"
   }
@@ -25,7 +25,7 @@
   "nature": {
     "href": "/person/nature",
     "logo": "/RonSwanson.jpeg",
-    "info": "Ron Swanson is a stoic and rugged individual who often provides comic relief in the series through his deadpan humor, disdain for government bureaucracy, and his love for breakfast foods, especially bacon and eggs. He is also known for his iconic mustache and his penchant for traditional masculinity. Despite his gruff exterior, he has a kind heart and serves as a mentor and father figure to some of the other people.",
+    "info": "Ron Swanson is a stoic and rugged character in the series, known for his deadpan humor, dislike of government bureaucracy, and love for breakfast foods like bacon and eggs. He's recognized for his iconic mustache and traditional masculinity. Despite his tough exterior, he has a kind heart and mentors and serves as a father figure to others.",
     "name": "Nature",
     "avatar": "/RonSwanson.jpeg"
   }
