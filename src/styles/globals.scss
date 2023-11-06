@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+$color-primary: black;
+
+html,
+body,
+#__next {
+  height: 100%;
+}
+linking-cursor>:last-child:after {
+  content: "|";
+  animation: blink 1s steps(2, jump-none) infinite;
+}
+
+@keyframes blink {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

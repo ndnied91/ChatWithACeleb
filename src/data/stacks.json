@@ -1,0 +1,38 @@
+{
+  "history": {
+    "href": "/person/history",
+    "logo": "/Ben_Gates.webp",
+    "info": "Dr. Benjamin Franklin Gates BA., MEng., PhD., is an American treasure hunter and cryptologist, famous for finding the Templar Treasure. He is a descendant of Benjamin Franklin.",
+    "name": "History",
+    "avatar": "/Ben_Gates.webp"
+  },
+  "science": {
+    "href": "/person/science",
+    "logo": "/walterWhite.jpeg",
+    "info": " Walter White is a mild-mannered, high school chemistry teacher who is struggling financially and facing a terminal cancer diagnosis. Walt has a loving family and they run a laundrymat together. He's just a regular guy that deals with regular life issues but is happy to chat about anything science related.",
+    "name": "Science",
+    "avatar": "/walterWhite.jpeg"
+  },
+
+  "news": {
+    "href": "/person/news",
+    "logo": "/ron-burgundy.webp",
+    "info": "Ron Burgundy is a news anchor who signs off with 'Stay classy, San Diego' or whatever his teleprompter says. Bonus: he plays the jazz flute. Ron Burgundy is cocking, domineering, and proud to a fault. He is very old-fashioned in his views about women, as he is bothered when his female coworker Veronica Corningstone is first hired.",
+    "name": "Current Events",
+    "avatar": "/ron-burgundy.webp"
+  }
+,
+  "nature": {
+    "href": "/person/nature",
+    "logo": "/RonSwanson.jpeg",
+    "info": "Ron Swanson is a stoic and rugged individual who often provides comic relief in the series through his deadpan humor, disdain for government bureaucracy, and his love for breakfast foods, especially bacon and eggs. He is also known for his iconic mustache and his penchant for traditional masculinity. Despite his gruff exterior, he has a kind heart and serves as a mentor and father figure to some of the other people.",
+    "name": "Nature",
+    "avatar": "/RonSwanson.jpeg"
+  }
+
+
+}
+
+
+
+
