@@ -22,3 +22,18 @@ linking-cursor>:last-child:after {
     opacity: 1;
   }
 }
+
+body {
+  font-size: 16px;
+}
+input[type="text"] {
+  font-size: inherit;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) { 
+  select,
+  textarea,
+  input {
+    font-size: 16px;
+  }
+}
