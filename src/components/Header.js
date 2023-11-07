@@ -16,7 +16,7 @@ export default function Header({ logo, info }) {
             className="object-cover mb-4 md:mb-0 "
           />
         </div>
-        <div className="flex font- text-xs md:sm">{info}</div>
+        <div className="flex items-center text-xs md:sm">{info}</div>
       </div>
       <div className="mt-4">
         <div>
